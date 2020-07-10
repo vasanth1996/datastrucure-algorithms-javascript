@@ -21,7 +21,6 @@ var reverseKGroup = function(head, k) {
     while(head && count > 0){
         let cur = head;
         let list = null;
-        let flag = true;
         
         for(let i=0;i<k;i++){
             count--;

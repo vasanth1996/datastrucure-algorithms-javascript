@@ -2,7 +2,7 @@
 Basic Data structures and Coding problems
 
 # LinkedList Problems
-1. [Linked List Swap nodes in pairs (Leetcode #24) #Hard](https://github.com/vasanth1996/datastrucure-algorithms-javascript/blob/master/LinkedList/LinkedListSwapNodesPair.js)
+1. [Linked List Swap nodes in pairs (Leetcode #24) #Hard](LinkedList/LinkedListSwapNodesPair.js)
 2. Reverse Nodes in k-Group (Leetcode #25) #Hard
 
 # Trees Problems

@@ -13,3 +13,6 @@ Basic Data structures and Coding problems
 
 # Arrays
 1. [Number of Good Pairs (Leetcode #1512) #Easy](https://github.com/vasanth1996/datastrucure-algorithms-javascript/blob/master/Arrays/NoOfGoodPairs%231512.js)
+
+# Greedy
+1. [Number of Non Overlapping intervals (Leetcode #435) #Medium](https://github.com/vasanth1996/datastrucure-algorithms-javascript/blob/master/Greedy/NonOverlappingIntervals%23435.js)

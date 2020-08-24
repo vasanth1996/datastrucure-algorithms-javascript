@@ -16,3 +16,4 @@ Basic Data structures and Coding problems
 
 # Greedy
 1. [Number of Non Overlapping intervals (Leetcode #435) #Medium](https://github.com/vasanth1996/datastrucure-algorithms-javascript/blob/master/Greedy/NonOverlappingIntervals%23435.js)
+2. [Minimum number of arrows to burts baloons (Leetcode #452) #Medium](https://github.com/vasanth1996/datastrucure-algorithms-javascript/blob/master/Greedy/MinimumNoOfArrowsToBurstBaloon%23452.js)
